@@ -15,9 +15,9 @@ casper.userAgent('Mozilla/4.0 (comptible; MSIE 6.0; Windows NT 5.1)')
 //========================================
 //========================================
 
-var tag = '<YOUR TAG HERE>'              //put your tag here
-var userName = '<USERNAME HERE>'         //put your username here
-var pass = '<PASSWORD HERE>'             //put your password here
+var tag = 'fishing'              //put your tag here
+var userName = 'johnsmith99'         //put your username here
+var pass = 'password123'             //put your password here
 
 
 //========================================
