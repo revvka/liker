@@ -15,9 +15,9 @@ casper.userAgent('Mozilla/4.0 (comptible; MSIE 6.0; Windows NT 5.1)')
 //========================================
 //========================================
 
-var tag = 'fishing'              //put your tag here
-var userName = 'johnsmith99'         //put your username here
-var pass = 'password123'             //put your password here
+var tag = 'gym'              //put your tag here
+var userName = 'revvy8457'         //put your username here
+var pass = 'instaGirl1'             //put your password here
 
 
 //========================================
@@ -80,7 +80,7 @@ function getURL(){
     casper.thenOpen('https://www.instagram.com/explore/tags/'+tag+'/?hl=en', function() {
 
         //random time between 30sec to 1min;
-        var randomTime = (Math.random() * 30000) + 30000;
+        var randomTime = (Math.random() * 30000) + 5000;
 
         this.wait(randomTime, function(){
 
