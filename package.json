@@ -2,7 +2,7 @@
   "name": "autoig",
   "version": "1.0.0",
   "description": "<h1> Instagram Bot </h1>",
-  "main": "myIG.js",
+  "main": "autogram.js",
   "dependencies": {
     "casperjs": "^1.1.3"
   },
